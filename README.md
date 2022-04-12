@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev & Python
 - 🌱 I’m currently learning Python & Python
 - 💞️ I’m looking to collaborate on JS
-- 📫 How to reach me 
+- 📫 Reach me through Twitter twitter.com/TruRee.
 
 <!---
 TrueRee/TrueRee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
