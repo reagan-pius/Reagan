@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TrueRee
-- 👀 I’m interested in WebDev, Data Science & Python
-- 🌱 I’m currently learning Python & JavaScript
-- 💞️ I’m looking to collaborate on Web and python stuff.
+- 👋 Hi, I’m Reagan Pius
+- 👀 I’m interested in Web Development, Data Science & Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Web, J avaScript and python stuff.
 - 📫 Reach me through goingreaganp@gmail.com and www.twitter.com/TrueRee.
 
 <!---
