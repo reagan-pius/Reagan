@@ -1,7 +1,7 @@
 # Hi there!👋
 
 😎 My name is **Reagan Pius** and I'm based in **Nairobi**.  
-👀 I'm passionate about **Web Development, Data Science & Python** and I'm always looking for new and exciting projects to work on.  
+👀 I'm passionate about **Data Science & Python** and I'm always looking for new and exciting projects to work on.  
 🌱 I’m currently learning Data Science.  
 💞️ I’m looking to collaborate on backend and other python stuff.  
 📫 Feel free to reach out to me if you have any questions or if you just want to chat! You can find me on:
